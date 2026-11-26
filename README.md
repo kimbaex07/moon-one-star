@@ -14,7 +14,7 @@ One line: the funniest one-star review of the Moon. `main.py` writes it to `entr
 
 ## Why it lands
 
-The joke treats the Moon as a bad roommate and grades it with the classic one-star review format, stars included. Every complaint is astronomically true — it does control the tides, it does vanish for days each month — but framed as a tenant dispute, which makes the familiar strange. The deadpan "Worst roommate ever" lands because the evidence really does check out.
+The joke treats the Moon as a bad roommate and grades it with the classic one-star review format, stars included. Every complaint is astronomically true — it does control the tides, it does vanish for days each month — but framed as a tenant dispute, which makes the familiar strange. The deadpan "Worst roommate ever" lands because the evidence really does check out. The review also works because the Moon never responds — no landlord, no apology, no refund — so the one-star rating is the only verdict it will ever get.
 
 ## Run it
 
