@@ -6,6 +6,16 @@
 
 One line: the funniest one-star review of the Moon. `main.py` writes it to `entry.txt`.
 
+## The entry
+
+> ★☆☆☆☆ Controls the tides, never pays rent, vanishes for days every month with no explanation. Worst roommate ever.
+
+114 characters (gate: 1–120).
+
+## Why it lands
+
+The joke treats the Moon as a bad roommate and grades it with the classic one-star review format, stars included. Every complaint is astronomically true — it does control the tides, it does vanish for days each month — but framed as a tenant dispute, which makes the familiar strange. The deadpan "Worst roommate ever" lands because the evidence really does check out.
+
 ## Run it
 
 ```sh
